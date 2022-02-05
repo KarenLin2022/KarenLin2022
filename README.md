@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarenLin2022
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Machine learning
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Machine learning.
+- 💞️ I’m looking to collaborate on Machine learning.
 - 📫 How to reach me karenlin2022@gmail.com
 
 <!---
